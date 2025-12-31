@@ -10,7 +10,7 @@ const nextConfig: NextConfig = {
     browserDebugInfoInTerminal: true,
   },
   reactCompiler: true,
-  // output: "standalone",
+  output: "standalone",
 };
 
 export default nextConfig;
